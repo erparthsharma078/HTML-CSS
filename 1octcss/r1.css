@@ -1,0 +1,12 @@
+#box{
+    padding: 20px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    border: 2px solid yellow;
+}
