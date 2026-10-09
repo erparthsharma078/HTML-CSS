@@ -1,0 +1,10 @@
+#box{
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url(r3.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
