@@ -1,0 +1,35 @@
+f=open('new.txt',"a+")
+# f.write("Hello, This is python class......")
+# f.write("Hello, This is HTML class......")
+# f.write("Hello, This is Java Script class......")
+# f.close()
+print(f.tell())
+f.seek(5,0)
+print(f.tell())
+# f.close()
+
+
+
+# print(f.tell())
+f=open('new.txt',"ab+")
+f.seek(5,1)
+print(f.tell())
+
+f.seek(-5,1)
+print(f.tell())
+f.seek(-5,2)
+print(f.tell())
+# f.close()
+
+# print(f.tell())
+# f= open('new.txt',"ab+")
+# print(f.tell())
+f.seek(0)
+print(f.tell())
+data=f.read(10)
+print(f.tell())
+
+print(data.decode("utf-8"))
+# data=f.read(10)
+print(f.tell())
+# f.close()
