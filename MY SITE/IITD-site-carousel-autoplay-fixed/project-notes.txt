@@ -1,0 +1,9 @@
+IIT Delhi educational demo website, built with semantic HTML, CSS and locally bundled Bootstrap CSS; no JavaScript.
+
+Home page includes six distinct photo-carousel slides with visible previous/next arrows and slide selectors. Photo sections use unique image files within each page. Page-specific guides cover academics, admissions, research, startups, library, hostels, campus culture, events, science, directory, visitor orientation and more.
+
+The home page and video page play assets/videos/campus-photo-tour.mp4 from the site folder. This is a locally generated about 17-second photo-motion montage with pan/zoom, not downloaded live-action footage. It works offline when opened from the site folder in a browser that supports MP4/H.264.
+
+Local attachments include all JPG/PNG photographs, the IIT Delhi emblem, Bootstrap stylesheet, CSS, and MP4 video. The right-aligned search field uses native topic suggestions and opens a local page directory; live filtering is unavailable without JavaScript. The navigation links to the official institute website, and the logo/return links lead back to the demo home.
+
+This is an unofficial educational project, not IIT Delhi’s official website. Sources and image credits are listed in assets/sources.txt and assets/media-sources.txt.

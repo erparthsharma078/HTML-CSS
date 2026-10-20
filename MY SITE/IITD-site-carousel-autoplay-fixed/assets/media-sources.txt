@@ -1,0 +1,20 @@
+IIT Delhi student project — locally bundled visual assets
+
+Official campus, library and hostel photographs:
+- assets/images/main-building.jpg, triangular-building.jpg, iitd-gallery-2.jpg, iitd-gallery-3.jpg, iitd-gallery-4.jpg through iitd-gallery-12.jpg: IIT Delhi official photo gallery and faculty-hosted gallery.
+- assets/images/hostel-dronagiri-building.jpg: Board for Hostel Management, IIT Delhi, Dronagiri hostel photo.
+- assets/images/hostel-sahyadri-building.jpg: Board for Hostel Management, IIT Delhi, Sahyadri hostel photo.
+- assets/images/hostel-food-1.jpg and hostel-food-2.jpg; assets/images/peafowl-iit-delhi.jpg: Wikimedia Commons IIT Delhi campus photographs.
+- assets/images/convocation-2025-1.jpg and convocation-2025-2.jpg: IIT Delhi official convocation gallery.
+- assets/images/cultural-rendezvous.jpg, cultural-students-1.jpg, cultural-students-2.jpg, cultural-guest.jpg, open-house-projects.jpg: IIT Delhi official institute and unit galleries.
+- assets/images/library-reading-space.jpg, library-books.jpg, library-reference.jpg, library-faculty-books.jpg, library-exhibition.jpg: IIT Delhi Central Library gallery and print-resources pages.
+- assets/images/campus-tour-poster.jpg: frame from the locally generated photo-motion montage.
+- assets/images/research-lab.jpg: Wikimedia Commons, IIT Delhi RC Lab experiment.
+- assets/images/robot-robomuse.png: IIT Delhi news photo of Robomuse 5.0.
+- assets/images/research-researchers.jpg, research-showcase-1.jpg, research-showcase-2.jpg, microgpu-visual.jpg, microgpu-team.jpg, quantum-fiber.jpg, bhaskar-kanseri.jpg, aphasia-therapy.jpg, rahul-garg.jpg: IIT Delhi research and institute announcements.
+
+Startup photographs and announcements:
+- assets/images/startup-unnati-ai.jpg, startup-pitch-perfect.jpg, startup-defense-innovation.jpg, startup-medicfibers-team.jpg: official IIT Delhi / FITT startup announcements and event imagery.
+- The page summarizes selected examples and report figures; it is not a complete startup directory.
+
+All image files, the 15-second photo-motion MP4 tour, Bootstrap stylesheet and page destinations are bundled locally. The site pages contain no outbound IIT Delhi website or video links. The MP4 is a locally generated still-photo montage with pan/zoom motion, not official live-action footage.

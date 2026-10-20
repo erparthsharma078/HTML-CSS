@@ -1,0 +1,21 @@
+﻿नमस्ते। इस ऑडियो में मैं अपनी IIT दिल्ली learning site के front page पर इस्तेमाल हुई CSS properties और उनके असली दृश्य परिणाम बताऊँगा। CSS file का नाम styles dot css है। यह पूरी साइट की shared stylesheet है; इसमें दूसरे pages की styles भी हैं। इसलिए home page पर केवल वही selector काम करता है जिसका class या id index dot html में मौजूद है।
+
+सबसे पहले रंग और text। Root में ink, navy, pink, blue, mint, line और shadow जैसे CSS variables हैं। Var से वही color या shadow अलग-अलग sections में इस्तेमाल होती है। Body पर gradient background और font shorthand है। Font family से अक्षरों का रूप, size से text का आकार, और line height से पंक्तियों के बीच की दूरी तय होती है। Section title को बड़ा serif font मिला है। परिणाम यह है कि heading बाकी paragraph से अलग और स्पष्ट दिखती है।
+
+Spacing के लिए margin, padding और gap हैं। Padding element के अंदर जगह बनाती है; margin बाहर दूरी बनाता है। Gap flex या grid items के बीच समान खाली जगह देता है। Container की maximum width रखी गई है, इसलिए बड़ी screen पर content बीच में और सीमित चौड़ाई में रहता है।
+
+Header में position sticky और top zero है। Scroll पर navigation ऊपर बना रहता है। Z index ten उसे content से आगे रखता है। Backdrop filter blur और हल्का transparent background नीचे के content से header को अलग करता है। Navbar में flex, flex wrap और gap से logo, links, search और official button व्यवस्थित होते हैं। Nav link पर hover color और छोटा translate effect आता है।
+
+Carousel में hero container relative है और slides absolute हैं। Inset zero हर slide को एक ही पूरी जगह पर रखता है। Image पर width और height hundred percent हैं, object fit cover तस्वीर को भरता है। Dark gradient pseudo-element तस्वीर पर overlay डालता है, जिससे सफेद text साफ पढ़ा जाता है। Text और arrows को अलग z index दिए गए हैं: hero text overlay से ऊपर, arrows उससे आगे, और sticky header सबसे ऊपर। यही z index की layering है।
+
+Carousel की animation property six second loop चलाती है। छह slides को अलग animation delay मिलता है: zero, one, two, three, four और five seconds। Keyframes हर slide को थोड़े समय visible रखते हैं और फिर opacity zero से छिपाते हैं। परिणाम है कि तस्वीरें बारी-बारी से लगभग हर एक सेकंड में बदलती हैं। Radio input की checked state और CSS has selector manual arrow तथा number selection संभालते हैं। Reduced motion preference पर animation रुक सकती है।
+
+Bootstrap grid में लगी cards को CSS height, border, radius, background और box shadow देती है। Stat card की बड़ी संख्या को strong selector विशेष रूप से दिखाता है। Feature card hover पर translate y minus six pixels से थोड़ा ऊपर उठती है; shadow गहरी होती है और image थोड़ी scale होती है। Transition इन बदलावों को अचानक होने के बजाय smooth बनाता है। Topic card पर hover के साथ focus visible भी है, ताकि keyboard से चुने गए card की स्थिति दिखाई दे।
+
+Video element की width hundred percent और aspect ratio sixteen by nine है। इसलिए अलग-अलग screen पर video चौड़ा-संकुचित हो सकता है, लेकिन उसका अनुपात बना रहता है। Rounded border और shadow उसे अलग container जैसा दिखाते हैं। Footer background में local image पर linear gradient है; gradient text के पीछे contrast बढ़ाता है। Footer की padding, link colors और columns उसे साफ groups में बाँटते हैं।
+
+Media queries CSS की responsive properties हैं। Site में 1100, 900, 760, 700 और 575 pixel जैसे breakpoints पर layout बदलता है। छोटी screen पर navbar wrap होता है, search box उपलब्ध चौड़ाई लेती है, carousel text किनारों से जगह पाता है, cards कम columns में आते हैं और footer columns नीचे stack हो सकते हैं। इस तरह CSS desktop और mobile दोनों के लिए page फिर से व्यवस्थित करती है।
+
+एक और उपयोगी बात CSS cascade है। Stylesheet में कुछ selectors कई बार लिखे हैं, क्योंकि इसमें बाद में design refinements जोड़े गए। सामान्य रूप से बराबर priority वाले नियमों में बाद का rule पहले को बदल सकता है। इसलिए अंतिम परिणाम देखने के लिए selector को पूरी file में खोजना और cascade समझना चाहिए।
+
+कुल मिलाकर, CSS properties page का रंग, typography, layout, spacing, interaction, motion और responsive behavior बनाती हैं। HTML में section और card के tags होते हैं; CSS उन्हें इस साइट जैसी pink, violet और light blue appearance देती है। धन्यवाद।

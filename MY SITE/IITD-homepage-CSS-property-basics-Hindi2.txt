@@ -1,0 +1,17 @@
+﻿नमस्ते। इस छोटी प्रस्तुति में हम समझेंगे कि CSS में property क्या होती है और property, value तथा selector एक साथ कैसे काम करते हैं। आसान भाषा में कहें, तो HTML पेज के elements बनाता है और CSS उन elements का रंग, आकार, जगह और व्यवहार तय करती है।
+
+CSS का एक सामान्य नियम तीन हिस्सों से बनता है: selector, declaration और value। उदाहरण के लिए, dot hero खुला ब्रैस, background colon navy, semicolon, min height colon six hundred twenty pixels, फिर बंद ब्रैस। यहाँ dot hero selector है। यह HTML में class hero वाले element को ढूँढता है। Background और min height properties हैं। Navy और six hundred twenty pixels उनकी values हैं। पूरा selector और declarations मिलकर एक CSS rule बनाते हैं।
+
+Property वह setting है जिसे हम बदलना चाहते हैं। Value बताती है कि उस setting को क्या देना है। Color property text का रंग बदलती है। Background property element का पीछे का रंग या gradient तय कर सकती है। Font size text का आकार बदलती है। Margin element के बाहर की दूरी बनाता है, और padding उसके अंदर सामग्री तथा किनारे के बीच जगह देता है। Width और height element का आकार तय करते हैं। Display बताता है कि उसके child elements किस layout में रखे जाएँ।
+
+Selector तय करता है कि नियम किस पर लगेगा। Dot nav link class को चुनता है। Hash main किसी id को चुनता है। Image, p या section जैसे selectors tag के नाम से elements चुनते हैं। Colon hover mouse pointer होने पर लागू होता है। Focus visible keyboard से चुने गए element पर outline दिखा सकता है। Double colon after HTML में अतिरिक्त tag जोड़े बिना सजावटी layer बना सकता है।
+
+तुम्हारी site में इसका उदाहरण styles dot css की hero rule है। Hero property position relative देती है; min height banner की ऊँचाई बनाती है; overflow hidden किनारे से बाहर निकली चीज़ छिपाता है; border radius नीचे के कोने गोल करता है। आगे hero slide की image पर object fit cover है। यह तस्वीर को बिना खींचे पूरे box में भरता है, ज़रूरत पर किनारों को crop करके।
+
+Values अलग-अलग units में हो सकती हैं। Pixels छोटी निश्चित मात्रा हैं। Rem root font size से जुड़ी होती है, इसलिए text और spacing के लिए बढ़ाई जा सकती है। Percent parent के आकार के अनुपात में काम करता है। Viewport width screen के अनुपात में है। Clamp छोटे, पसंदीदा और अधिकतम आकार के बीच responsive value चुनता है। उदाहरण के लिए heading का font मोबाइल पर छोटा और बड़ी screen पर बड़ा होता है।
+
+तुम्हारे CSS में color, background, font, padding, margin, width, height, display, position, z index, border radius, box shadow, transform, transition, animation और grid template columns जैसी properties हैं। हर property का एक दृश्य परिणाम है: color text बदलता है, gap कार्डों के बीच दूरी बनाता है, position और z index layers को व्यवस्थित करते हैं, transform card को ऊपर उठाता है, और animation carousel को चलाता है।
+
+CSS में variables भी custom properties कहलाते हैं। Root में dash navy या dash shadow जैसे नाम रखे हैं। Var function से उनका उपयोग किया जाता है। इससे एक ही रंग या shadow को कई rules में दोबारा लिखने की जरूरत नहीं पड़ती।
+
+ध्यान रहे, property का नाम और value अलग बातें हैं। Background property है; linear gradient उसकी value हो सकती है। Border radius property है; one rem उसकी value है। Dot card selector है; box shadow declaration का हिस्सा है। यह भेद समझ में आ जाए, तो किसी भी CSS rule को पढ़ना आसान होता है। संक्षेप में, selector बताता है कहाँ बदलाव होगा, property बताती है क्या बदलेगा, और value बताती है किस रूप में बदलेगा। धन्यवाद।

@@ -1,0 +1,31 @@
+Content, image attribution and public-contact references used to prepare this student-made overview. The site includes one clearly labelled official-site cross-link and verified social links on Contact:
+
+IIT Delhi Research Impact Report release (27 January 2025): activity reported for 2018–2024, including 147 startups incubated, 5,100+ sponsored projects and ₹2,340 crore cumulative research funding.
+https://home.iitd.ac.in/show.php?id=616&in_sections=News
+
+IIT Delhi Startup@IITD news index and examples, including Unnati AI Accelerator, Pitch Perfect 2.0, defence innovation, MedicFibers, Geliose Mobility, AqCure and RAMJA Genosensor.
+https://home.iitd.ac.in/startup-all.php
+
+Pitch Perfect 2.0 (IHFC) announcement, including the support described at launch.
+https://home.iitd.ac.in/show.php?id=367&in_sections=Press
+
+Unnati AI Accelerator launch by Microsoft and FITT IIT Delhi.
+https://home.iitd.ac.in/show.php?id=10&in_sections=Startups
+
+FITT / iDEX defence startup announcement.
+https://home.iitd.ac.in/show.php?id=9&in_sections=Startups
+
+Official image sources: IIT Delhi photo gallery, news and research pages; Board for Hostel Management pages for Dronagiri and Sahyadri hostels; Wikimedia Commons files credited above.
+https://home.iitd.ac.in/gallery.php
+https://bhm.iitd.ac.in/
+https://commons.wikimedia.org/
+
+IIT Delhi Research Impact Report describes multi-area work including health/med-tech, communications, AI/data science, energy and technology transfer. The startup page labels numerical information by report period rather than presenting it as a current live total.
+
+Official contact information (general main-campus contact): IIT Delhi Contact Us page, checked 18 October 2026. Phone shown as a landline; no general mobile number is published there.
+https://home.iitd.ac.in/contact.php
+
+Official Facebook, Instagram and X/Twitter profile URLs are listed by IIT Delhi Public Relations Unit: IIT Delhi on Social Media.
+https://home.iitd.ac.in/uploads/newsletters/latest.pdf
+
+CSS topic reference page adds visual examples for selectors, variables, box model, units, display, positioning, flex/grid, pseudo-classes/elements, transitions, transforms, animation, media/container queries and modern CSS patterns.
